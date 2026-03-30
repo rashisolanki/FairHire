@@ -13,7 +13,7 @@ This project investigates demographic bias and proxy discrimination in automated
 
 ## Dataset
 
-Kaggle Resume Dataset — 2,483 PDFs across 24 job categories.
+[Kaggle Resume Dataset]([url](https://www.kaggle.com/datasets/snehaanbhawal/resume-dataset)) — 2,483 PDFs across 24 job categories.
 No real demographic labels or hiring outcomes; both are synthetically generated for controlled experimentation.
 
 ---
