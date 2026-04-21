@@ -1,6 +1,9 @@
 Model,Accuracy,F1,AUC,Dem. Parity Diff,Eq. Odds Diff
 Logistic Regression,0.7383,0.795,0.7865,0.0356,0.086
 Random Forest,0.7906,0.8462,0.8423,0.0341,0.1663
-LR Reweighting (Pre),0.7342,0.7916,0.7849,0.0329,0.0914
-ExpGrad DP (In),0.6993,0.7494,,0.0325,0.1371
-ThresholdOpt (Post),0.6859,0.7371,,0.1292,0.2424
+LR Reweighting (Pre),0.7369,0.7941,0.7835,0.0383,0.0914
+ExpGrad DP (In),0.7141,0.7641,,0.0026,0.1001
+ExpGrad EO (In),0.7383,0.795,,0.0356,0.086
+ThresholdOpt (Post),0.6725,0.724,,0.1454,0.2716
+RF Reweighting (Pre),0.7852,0.8431,0.8424,0.0074,0.1932
+RF ExpGrad DP (In),0.7101,0.7611,,0.0055,0.1583
